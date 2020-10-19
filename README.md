@@ -7,7 +7,9 @@ https://python-telegram-bot.readthedocs.io/en/stable/telegram.html#telegram-pack
 https://core.telegram.org/bots/samples
 
 https://github.com/python-telegram-bot/python-telegram-bot
-
-https://help.appfollow.io/article/336-telegram-reply-bot  # send reply option.
+  # send reply option.
 
 https://core.telegram.org/bots/api#message
+
+![GitHub Logo](/images/logo.png)
+Format: ![To Send reply](https://help.appfollow.io/article/336-telegram-reply-bot)
