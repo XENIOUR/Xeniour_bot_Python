@@ -1,2 +1,2 @@
-# Xeniour_bot_Python
+# Xeniour_bot (Python)
 Telegram Bot in Python.
